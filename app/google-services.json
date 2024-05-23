@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247260666857",
+    "project_id": "raman-project-19624",
+    "storage_bucket": "raman-project-19624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247260666857:android:698085c6a089089db40978",
+        "android_client_info": {
+          "package_name": "com.example.ramanmishraproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANYc8u-mhBIx2WTwFa8rQ7wjrwNwt2ihA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
